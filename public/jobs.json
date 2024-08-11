@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "logo": "https://i.postimg.cc/RhwyWM5r/airbnb.png",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Airbnb",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "A Technical Database Engineer is responsible for designing, implementing, and maintaining the database infrastructure of Airbnb's platform. The role includes managing database performance, scaling, and ensuring data integrity.",
+    "job_responsibility": "Collaborate with cross-functional teams to ensure database reliability and performance. Design and optimize database schemas to handle large-scale data operations. Ensure security and compliance of database systems.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3-5 years in database engineering.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@airbnb.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 2,
+    "logo": "https://i.postimg.cc/fTG7Hx9v/pngwing-com-18.png",
+    "job_title": "Senior Product Designer",
+    "company_name": "YouTube",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "A Senior Product Designer at YouTube is responsible for creating engaging and user-friendly interfaces for both web and mobile platforms. This includes working closely with engineering and product teams to define the user experience and visual design.",
+    "job_responsibility": "Lead the design process from concept to execution, ensuring that all interactions and visual designs meet user needs and are aligned with YouTube's brand. Conduct user research and usability testing to inform design decisions.",
+    "educational_requirements": "Bachelor's degree in Design or related field.",
+    "experiences": "4-6 years in product design.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@youtube.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 3,
+    "logo": "https://i.postimg.cc/g2yhN1dY/pngwing-com-19.png",
+    "job_title": "Software Engineer",
+    "company_name": "Twitter",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "A Software Engineer at Twitter is responsible for developing and maintaining the backend systems that power the platform. This includes working on scalability, performance, and new feature development.",
+    "job_responsibility": "Work closely with cross-functional teams to build and deploy features that improve user experience. Ensure that the platform is reliable and scalable to handle large volumes of traffic.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "2-3 years in software engineering.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@twitter.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 4,
+    "logo": "https://i.postimg.cc/3JFr6hyb/pngwing-com-16.png",
+    "job_title": "Software Engineer",
+    "company_name": "Alibaba",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "A Software Engineer at Alibaba is responsible for developing and maintaining software solutions that support the company's e-commerce platform. This role involves working on large-scale, distributed systems.",
+    "job_responsibility": "Collaborate with product and engineering teams to build robust and scalable software. Ensure the security and performance of Alibaba's systems.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3-5 years in software development.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@alibaba.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "https://i.postimg.cc/zGxMbtMf/tesla.png",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "A Technical Database Engineer at Tesla is responsible for designing, implementing, and maintaining the company's database systems to support its manufacturing and sales operations.",
+    "job_responsibility": "Design and optimize database schemas. Ensure the scalability and performance of database systems. Work with cross-functional teams to support Tesla's growth.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3-5 years in database engineering.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@tesla.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "https://i.postimg.cc/0j9FKT8b/pngwing-com-17.png",
+    "job_title": "Senior Product Designer",
+    "company_name": "Porsche",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "A Senior Product Designer at Porsche is responsible for designing and enhancing the user experience of the company's digital products. This role includes working on web and mobile applications, ensuring they align with Porsche's brand and user needs.",
+    "job_responsibility": "Lead design projects from concept to launch. Collaborate with engineering teams to ensure designs are implemented accurately. Conduct user research to inform design decisions.",
+    "educational_requirements": "Bachelor's degree in Design or related field.",
+    "experiences": "4-6 years in product design.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@porsche.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 7,
+    "logo": "https://i.postimg.cc/4N52q2X1/pngwing-com-11.png",
+    "job_title": "Cloud Solutions Architect",
+    "company_name": "Microsoft",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "180k-230k",
+    "job_description": "A Cloud Solutions Architect at Microsoft is responsible for designing and implementing cloud-based solutions for clients. This role involves working closely with engineering teams to ensure solutions are scalable and secure.",
+    "job_responsibility": "Lead the architecture and deployment of cloud solutions. Work with clients to understand their needs and develop solutions that meet their requirements.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "5+ years in cloud computing and architecture.",
+    "contact_information": {
+      "phone": "01754-00 00 00",
+      "email": "contact@microsoft.com",
+      "address": "Bashundhara, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 8,
+    "logo": "https://i.postimg.cc/V68jY1R0/pngwing-com-15.png",
+    "job_title": "Front-End Developer",
+    "company_name": "Facebook",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "120k-170k",
+    "job_description": "A Front-End Developer at Facebook is responsible for developing the visual components of web applications. This role involves working closely with design and engineering teams to ensure the best user experience.",
+    "job_responsibility": "Implement UI components based on design specifications. Optimize web applications for performance and scalability.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3+ years in front-end development.",
+    "contact_information": {
+      "phone": "01753-00 00 00",
+      "email": "careers@facebook.com",
+      "address": "Banani, Dhaka, Bangladesh"
+    }
+  }
+]
